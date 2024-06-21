@@ -6,7 +6,7 @@ package poeparttwo;
 
 /**
  *
- * @author RC_Student_lab
+ * @author Branden
  */
 public class TaskClass {
     //DEclaration of variables
@@ -36,5 +36,5 @@ public class TaskClass {
                 "\nDuration: " + taskDuration + " hours";
     } public double getTaskDuration() {
         return taskDuration;
-    }
+   }
 }

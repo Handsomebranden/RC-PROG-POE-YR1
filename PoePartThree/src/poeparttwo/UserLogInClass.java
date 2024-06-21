@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author RC_Student_lab
+ * @author Branden
  */
 public class UserLogInClass {
     //Declaration of Variables
@@ -52,4 +52,3 @@ public class UserLogInClass {
         }
     }
 }
-

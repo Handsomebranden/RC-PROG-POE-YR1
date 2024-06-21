@@ -12,7 +12,7 @@ import static poeparttwo.UserLogInClass.VerificationOfUser.ifUsernamieIsValid;
 
 /**
  *
- * @author RC_Student_lab
+ * @author Branden
  */
 public class PoePartTwo {
     //Placing the Task Statuses method into an array
@@ -75,6 +75,9 @@ public class PoePartTwo {
          JOptionPane.showMessageDialog(null, "Show report - Coming Soon");
          //Method for quittinf the program
           JOptionPane.showMessageDialog(null, "Goodbye!");
+          
+          //Initializing the object for the task manager class
+            TaskManagerClass taskManager = new TaskManagerClass();
     }
     
 }
